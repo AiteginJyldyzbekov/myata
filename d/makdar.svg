@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="12" viewBox="0 0 21 12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="makdar.svg" class="cls-1" d="M829,329.8L818.5,340,808,329.8l1.848-1.8,8.651,8.4,8.651-8.4Z" transform="translate(-808 -328)"/>
+</svg>
