@@ -65,11 +65,13 @@
             background-color: #fff;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            max-width: 800px;
             padding: 30px;
             margin: 20px;
             text-align: center;
             margin: 0 auto;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
         }
 
         .steps-container h2 {
@@ -126,6 +128,7 @@
         @media (max-width: 600px) {
             .steps-container {
                 padding: 20px;
+                grid-template-columns: 1fr;
             }
 
             .step {
@@ -1636,8 +1639,9 @@
                         </div>
                     </div>
                 </div>
+                <h2 style="text-align: center;">Этапы работы</h2>
+
                 <div class="steps-container">
-                    <h2>Этапы работы</h2>
                     <div class="step">
                         <div class="step-number">1</div>
                         <div class="step-content">
