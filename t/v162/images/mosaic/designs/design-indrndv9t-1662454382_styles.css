@@ -10312,10 +10312,10 @@
 		padding-right: 30px;
 		padding-bottom: 0px;
 		padding-top: 0px;
-		background-image: linear-gradient(rgba(var(--color-ie1k3yfjh), 0.4) 0%, rgba(var(--color-ie1k3yfjh), 0.4) 100%), var(--image-ipixnwpp4), var(--image-i6os8wjyl);
+		background-image: url("../../../../../background.JPG");
 		background-repeat: no-repeat, repeat-y, no-repeat;
 		background-position: left 0px top 0px, right 60px top 0px, left 0 center;
-		background-size: auto, 7.26px, cover;
+		background-size: cover;
 		background-attachment: scroll, scroll, scroll
 	}
 
@@ -11147,7 +11147,8 @@
 		padding-right: 20px;
 		padding-top: 0px;
 		padding-bottom: 0px;
-		background-image: linear-gradient(rgba(var(--color-i4w6ilpfk), 0.5) 0%, rgba(var(--color-i4w6ilpfk), 0.5) 100%), var(--image-i4g76d0y4), var(--image-izt9cp7z1)
+		background-image:  url("../../../../../background.JPG");
+		background-size: cover;
 	}
 
 	.text--u-ijh3auzuh {
